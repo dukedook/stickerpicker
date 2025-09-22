@@ -1,6 +1,7 @@
 {
   "packs": [
-    "AspenPineMarten.json"
+    "AspenPineMarten.json",
+    "Lewdbold.json"
   ],
   "homeserver_url": "https://matrix.workersofthe.world"
 }
